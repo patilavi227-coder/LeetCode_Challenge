@@ -1,0 +1,56 @@
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# Build artifacts
+/out/
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+gradlew
+gradlew.bat
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+.gitkeep
+
+# Editor files
+.vscode/
+*.code-workspace
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+*.swp
+logs/
+
+# Local configuration files
+.env
+local.properties
+
